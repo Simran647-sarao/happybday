@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday!</title>
+<style>
+  body { love }
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  .greeting { Happy bdayy cutie 🥰}
+    color: #e91e63;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  .name { Siya goyal 🥰}
+    color: #2196f3;
+    font-weight: bold;
+  }
+  .message { God bless u my bestie love u so much ❤️}
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  .image-container { Teddy }
+     margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+  <h1 class="greeting">Happy Birthday!</h1>
+  <p class="message">Wishing a very special <span class="name">[Your Crush's Name]</span> a day filled with joy and happiness! </p>
+  <div class="image-container">
+    <img src="your-image.jpg" alt="Image related to birthday" width="300" height="200">
+  </div>
+  <p class="message">May all your wishes come true. </p>
+</body>
+</html>
